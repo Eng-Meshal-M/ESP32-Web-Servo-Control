@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
- <img src="YOUR_MAIN_IMAGE_LINK_HERE"
+ <img src="https://github.com/user-attachments/assets/abd86c9f-93bf-4316-8e54-9d3cdf4cfecd"
  width="90%">
 </p>
 
@@ -33,8 +33,7 @@ ESP32-Web-Servo-Control/
 │
 ├── ESP32_Web_Servo_Control.ino
 ├── README.md
-├── demo_wokwi.mp4
-└── demo_live.mp4
+└── demo_live-2.mp4
 ```
 
 ---
@@ -96,7 +95,7 @@ The simulation stage was used to verify:
 After successful testing, the same system was transferred to the real ESP32 board.
 
 <p align="center">
- <img src="YOUR_WOKWI_IMAGE_LINK_HERE"
+ <img src="https://github.com/user-attachments/assets/4d15c628-b51c-410f-8fd5-a7486899699a" 
  width="90%">
 </p>
 
@@ -124,7 +123,7 @@ Each button sends a command to the ESP32 Web Server to control the servo motor a
 ## 📸 Real Hardware Setup
 
 <p align="center">
- <img src="YOUR_REAL_HARDWARE_IMAGE_LINK_HERE"
+ <img src="https://github.com/user-attachments/assets/21968edd-19ac-4769-9767-57b181406968"
  width="90%">
 </p>
 
